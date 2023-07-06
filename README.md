@@ -1,2 +1,2 @@
 # NTI
-AVR +ARM
+AVR + ARM
